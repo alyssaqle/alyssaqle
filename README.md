@@ -8,7 +8,7 @@
 ## 🧠 About Me
 I enjoy exploring how data can answer real-world questions and improve decision-making.  
 
-Most of my work so far has been in **data analytics and machine learning projects** — building dashboards, cleaning and analyzing datasets, and applying models such as SVM, Random Forest, and clustering.  
+Most of my work so far has been in **data analytics and machine learning projects** — building dashboards, cleaning and analyzing datasets, and applying machine learning models
 
 Alongside this, I’m also exploring how analytics connects to **conversion, subscriptions, growth, and product decision-making** - areas I find exciting and want to deepen my skills in.  
 To support this journey, I’m beginning to learn **data engineering tools and workflows** that make analytics and ML projects more scalable and impactful.  
