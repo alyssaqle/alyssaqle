@@ -11,6 +11,7 @@ I enjoy exploring how data can answer real-world questions and improve decision-
 Most of my work so far has been in **data analytics and machine learning projects** — building dashboards, cleaning and analyzing datasets, and applying machine learning models
 
 Alongside this, I’m also exploring how analytics connects to **conversion, subscriptions, growth, and product decision-making** - areas I find exciting and want to deepen my skills in.  
+
 To support this journey, I’m beginning to learn **data engineering tools and workflows** that make analytics and ML projects more scalable and impactful.  
 
 ---
@@ -23,7 +24,7 @@ To support this journey, I’m beginning to learn **data engineering tools and w
 - **Technical Manager @ Develop for Good**  
   Led a cross-functional team in creating a new website for an education non-profit. Improved donor experience by streamlining the donation flow, highlighted impact stories, and documented analytics requirements for future tracking.
 
-  - **Research Assistant (Data Scraping & Cleaning) @ Economics Lab (UCSD)**  
+- **Research Assistant (Data Scraping & Cleaning) @ Economics Lab (UCSD)**  
   Collected and cleaned datasets, performed web scraping, and prepared research data for economic analysis.  
 
 ---
