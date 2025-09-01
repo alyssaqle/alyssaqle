@@ -16,21 +16,19 @@ To support this journey, I’m beginning to learn **data engineering tools and w
 ---
 
 ## 💼 Experience
-- **Research Assistant (Data Scraping & Cleaning) @ Economics Lab (UCSD)**  
-  Collected and cleaned datasets, performed web scraping, and prepared research data for economic analysis.  
-
-- **Data Science Project – Longitudinal Mental Health Study**  
-  Applied **SVM and Random Forest** models to predict adult mental health outcomes from childhood support indicators; achieved 62–80% accuracy with recall-focused tuning. Used **PCA and feature analysis** to uncover patterns and presented findings with social and behavioral context.  
-
-- **Technical Manager @ Develop for Good**  
-  Led a cross-functional team in creating a new website for an education non-profit. Improved donor experience by streamlining the donation flow, highlighted impact stories, and documented analytics requirements for future tracking.
 
 - **Data Science Intern @ RunBuggy**  
   Explored repo yard performance using clustering & classification; built dashboards to support operational decision-making.  
 
-- **Board Member @ SASE UCSD**  
-  Coordinated mentorship and professional events for 100+ members, focusing on engagement and growth.  
+- **Technical Manager @ Develop for Good**  
+  Led a cross-functional team in creating a new website for an education non-profit. Improved donor experience by streamlining the donation flow, highlighted impact stories, and documented analytics requirements for future tracking.
+
+  - **Research Assistant (Data Scraping & Cleaning) @ Economics Lab (UCSD)**  
+  Collected and cleaned datasets, performed web scraping, and prepared research data for economic analysis.  
 
 ---
+## 💼 Project
+- **Data Science Project – Longitudinal Mental Health Study**  
+  Applied **SVM and Random Forest** models to predict adult mental health outcomes from childhood support indicators; achieved 62–80% accuracy with recall-focused tuning. Used **PCA and feature analysis** to uncover patterns and presented findings with social and behavioral context.
 
 ✨ Always curious, always learning — especially about how **analytics and machine learning can power smarter decisions**!
