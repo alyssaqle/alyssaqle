@@ -10,7 +10,7 @@ I enjoy exploring how data can answer real-world questions and improve decision-
 
 Most of my work so far has been in **data analytics and machine learning projects** — building dashboards, cleaning and analyzing datasets, and applying models such as SVM, Random Forest, and clustering.  
 
-Alongside this, I’m also exploring how analytics connects to **conversion, subscriptions, growth, and product decision-making** — areas I find exciting and want to deepen my skills in.  
+Alongside this, I’m also exploring how analytics connects to **conversion, subscriptions, growth, and product decision-making** - areas I find exciting and want to deepen my skills in.  
 To support this journey, I’m beginning to learn **data engineering tools and workflows** that make analytics and ML projects more scalable and impactful.  
 
 ---
@@ -23,9 +23,9 @@ To support this journey, I’m beginning to learn **data engineering tools and w
   Applied **SVM and Random Forest** models to predict adult mental health outcomes from childhood support indicators; achieved 62–80% accuracy with recall-focused tuning. Used **PCA and feature analysis** to uncover patterns and presented findings with social and behavioral context.  
 
 - **Technical Manager @ Develop for Good**  
-  Led a cross-functional team building a website for an education non-profit; streamlined donor flows and documented analytics needs.  
+  Led a cross-functional team in creating a new website for an education non-profit. Improved donor experience by streamlining the donation flow, highlighted impact stories, and documented analytics requirements for future tracking.
 
-- **Data Analyst (Intern) @ RunBuggy**  
+- **Data Science Intern @ RunBuggy**  
   Explored repo yard performance using clustering & classification; built dashboards to support operational decision-making.  
 
 - **Board Member @ SASE UCSD**  
