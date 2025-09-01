@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alyssa
+# 👋 Hi there, I'm Thuc-Quyen (Alyssa) Le
 
 🎓 UC San Diego Student (Cognitive Science: Machine Learning & Neural Computation)  
 💡 Passionate about **Data Analytics, Business Intelligence, and Applied Machine Learning**  
