@@ -3,6 +3,7 @@
 🎓 UC San Diego Student (Cognitive Science: Machine Learning & Neural Computation)  
 💡 Passionate about **Data Analytics, Business Intelligence, and Applied Machine Learning**  
 
+Check out [MY PORTFOLIO WEBSITE HERE!](https://www.datascienceportfol.io/alyssaqle918)
 ---
 
 ## 🧠 About Me
