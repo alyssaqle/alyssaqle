@@ -30,7 +30,15 @@ To support this journey, I’m beginning to learn **data engineering tools and w
 
 ---
 ## 💼 Project
-- **Data Science Project – Longitudinal Mental Health Study**  
-  Applied **SVM and Random Forest** models to predict adult mental health outcomes from childhood support indicators; achieved 62–80% accuracy with recall-focused tuning. Used **PCA and feature analysis** to uncover patterns and presented findings with social and behavioral context.
+- **Delta Airlines Customer Experience Analysis**
+●	Wrote 20 SQL queries in Snowflake and Python notebooks to analyze 2.9K Delta reviews, uncovering satisfaction patterns across traveller type, seat class, route, and aircraft.
+●	 Developed Mode Analytics dashboards to track 6 KPIs and visualize trends, enabling data-driven decision-making while collaborating with data engineers and analysts.
+●	Generated 10+ actionable recommendations projected to raise Delta’s recommendation rate, service category scores and overall increase in customer satisfaction by 15%.
+
+- **Longitudinal Mental Health Analysis**  
+●	Led development of SVM classifiers on 4.5K+ longitudinal records to predict adult mental health from childhood support indicators; achieved 62 - 80% accuracy with recall up to 57% for at-risk identification
+●	Formulated and tested hypothesis, interpreting model insights with Principal Component Analysis, pairplots, and correlation to uncover links between parental care, academic engagement, and psychological well-being
+●	Delivered final report and presentation with 5-person team, integrating ethical, social, and behavioral context to align findings with public health impact
+
 
 ✨ Always curious, always learning — especially about how **analytics and machine learning can power smarter decisions**!
